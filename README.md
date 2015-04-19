@@ -1,4 +1,6 @@
-# tiva_web_interface
-Create an interface to show informations to the world.
+Tiva Web Interface
+==================
 
-1 Development of a web interface for event handling
+0. OBJECTIVE
+
+	0. Create an interface to show informations to the world.
